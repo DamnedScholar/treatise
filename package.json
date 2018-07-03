@@ -1,0 +1,14 @@
+{
+  "name": "treatise",
+  "version": "1.0.0",
+  "description": "Painless image sharing in Elixir.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Holland Wilson (DamnedScholar)",
+  "license": "MIT"
+}
